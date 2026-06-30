@@ -34,7 +34,7 @@ st.markdown("""
 
 # ── Hero ──────────────────────────────────────────────────────
 st.title("🤖 AI Automation Suite")
-st.markdown("**Day 5 Capstone** — Four AI-powered automation tools in one place, built with Claude.")
+st.markdown("**my fun project** —three AI-powered automation tools in one place.")
 st.divider()
 
 # ── API Key ───────────────────────────────────────────────────
@@ -100,4 +100,4 @@ col2.metric("File formats", "5")
 col3.metric("Powered by", "Claude AI")
 
 st.divider()
-st.caption("Built with Claude AI · Day 5 Capstone of 15-Day AI Automation Sprint")
+st.caption("Send me an email if you want something like this alabioluwatobi2018@gmail.com")
