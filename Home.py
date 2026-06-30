@@ -34,7 +34,7 @@ st.markdown("""
 
 # ── Hero ──────────────────────────────────────────────────────
 st.title("🤖 AI Automation Suite")
-st.markdown("**my fun project** —three AI-powered automation tools in one place.")
+st.markdown("**my fun project** Three AI-powered automation tools in one place.")
 st.divider()
 
 # ── API Key ───────────────────────────────────────────────────
